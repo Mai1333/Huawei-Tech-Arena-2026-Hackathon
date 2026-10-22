@@ -1,0 +1,19 @@
+# Data files & Submissions
+*.csv
+*.json
+*.parquet
+*.zip
+data/
+submissions/*.csv
+
+# Python environments & cache
+__pycache__/
+*.pyc
+.venv/
+env/
+.ipynb_checkpoints/
+
+# Models & Log Artifacts
+*.pkl
+*.bin
+*.model

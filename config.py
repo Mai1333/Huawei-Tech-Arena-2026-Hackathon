@@ -1,0 +1,1 @@
+# Global file paths and constant parameters
